@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scrimba Support Bot</title>
+    <link rel="stylesheet" href="/index.css">
+</head>
+<body>
+    <main class="chatbot">
+        <header class="chatbot-header">
+            <div class="logo">S</div>
+            <div>
+                <h1>Scrimba Support</h1>
+                <p class="subtitle">LangChain.js · RAG on Supabase</p>
+            </div>
+            <button id="clear-btn" class="clear-btn" type="button" title="Start a new conversation">New chat</button>
+        </header>
+
+        <section id="conversation" class="conversation" aria-live="polite">
+            <div class="bubble ai">How can I help you with Scrimba today?</div>
+        </section>
+
+        <div class="suggestions" id="suggestions">
+            <button type="button">I'm a complete beginner and really nervous, is Scrimba for me?</button>
+            <button type="button">Will Scrimba work on my old laptop?</button>
+            <button type="button">My name is Tom. How often are courses updated?</button>
+        </div>
+
+        <form id="form" class="chatbot-input">
+            <input id="user-input" name="question" autocomplete="off" placeholder="Ask about Scrimba…" required>
+            <button id="submit-btn" type="submit" aria-label="Send">➤</button>
+        </form>
+    </main>
+    <script type="module" src="/index.js"></script>
+</body>
+</html>

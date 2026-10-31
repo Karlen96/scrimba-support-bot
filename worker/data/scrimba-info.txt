@@ -1,0 +1,36 @@
+About this document
+This is a short sample knowledge document written for these course notes. It imitates the style of the scrimba-info.txt file used in the course, but it is not official Scrimba information. Replace it with your own text if you want the bot to know something else.
+
+What is Scrimba?
+Scrimba is an online platform for learning to code. Its courses are built from interactive screencasts called scrims. A scrim looks like a video, but you can pause it at any moment and edit the teacher's code directly in the player, then run it to see what happens.
+
+Scrimba teaches front-end development, JavaScript, React, back-end development and AI engineering. The courses are designed so that you write a lot of code yourself through challenges, rather than just watching.
+
+What is a scrim?
+A scrim is the core learning format on Scrimba. It records the teacher's code editor, voice and mouse movements instead of pixels. Because of this, scrims are very small to download and the code inside them is real, editable text. You can copy it, change it and run it at any point.
+
+Is Scrimba suitable for beginners?
+Yes. Many of our learners start with no coding experience at all. The Frontend Developer Career Path starts from the very basics of HTML and CSS and goes step by step. Lots of challenges help you practise every new concept straight away. If you feel nervous, don't worry: the community is friendly and everyone was a beginner once.
+
+Technical requirements
+Scrimba runs in a modern web browser such as Chrome, Firefox, Safari or Edge. You do not need to install anything. Scrimba is designed to be lightweight, so it works well on low-spec computers and older laptops. A stable internet connection is recommended, but because scrims are not videos they use far less bandwidth than video courses.
+
+Scrimba works best on a laptop or desktop computer, because you need a keyboard to write code. You can watch scrims on a tablet or phone, but coding challenges are much easier on a bigger screen.
+
+Solo projects and code reviews
+At the end of many modules there is a solo project. You build an app on your own, using a design and a list of requirements. When you have finished, you can submit the project for a code review. Code reviews are done by experienced developers from the Scrimba team and community. You usually get your review within five working days. The review is a video in which the reviewer goes through your code and suggests improvements.
+
+The community
+The Scrimba community is a global community of friendly and helpful coders. We believe that learning to code is a community activity, so we have set up a Discord server where you can meet fellow learners, share your problems and solutions, and network. Popular channels include today-i-did, where people share what they have built, and channels for asking for help with code.
+
+Teachers
+Scrimba courses are taught by experienced developers and educators. Tom Chant is a Scrimba teacher who teaches JavaScript and AI engineering courses, including the course on building AI apps with LangChain.js. Per Borgen is one of the founders of Scrimba and teaches many front-end courses.
+
+Pricing and certificates
+Some Scrimba courses are free. Others require a Pro subscription, which gives access to all courses, career paths, solo project code reviews and the members-only parts of the community. When you complete a course you get a certificate that you can add to your LinkedIn profile.
+
+How often are courses updated?
+We update our courses on a regular basis. When a library or a tool changes a lot, we re-record the affected scrims or publish a new version of the course, so that what you learn stays relevant.
+
+Contact
+If you have a question that is not answered here, email help@scrimba.com and the support team will get back to you.

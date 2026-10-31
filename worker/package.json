@@ -1,0 +1,20 @@
+{
+  "name": "scrimba-bot-worker",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "seed": "node --env-file=.dev.vars scripts/seed.js"
+  },
+  "dependencies": {
+    "@langchain/community": "^1.1.29",
+    "@langchain/core": "^1.3.1",
+    "@langchain/openai": "^1.8.0",
+    "@supabase/supabase-js": "^2.118.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.152.0",
+    "@langchain/textsplitters": "^1.0.2"
+  }
+}
